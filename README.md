@@ -37,8 +37,5 @@ Notes & next improvements
 - Consider adding Postgres Row-Level Security (RLS) if you need stronger tenant separation.
 - Add more comprehensive tests and CI steps for integration tests with Testcontainers.
 
-If you want, I can:
-- Push these files to your GitHub repository (you'll need to invite me or provide a temporary token) — or I can give you a step-by-step push guide.
-- Expand CSV import, implement receipt attachments (MinIO/S3), or add full role enforcement for approvals.
 
 ```
